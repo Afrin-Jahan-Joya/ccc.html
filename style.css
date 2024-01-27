@@ -1,0 +1,148 @@
+ /*h2 => selector
+color=> property
+red=> value */
+
+h2{
+    color:#ff00aa;
+    background-color: rgb(19, 127, 221);
+    text-align: center;
+}
+
+.one{
+    text-align: center;
+    color: hsl(0, 100%, 50%);
+    text-align-last:right;
+    text-shadow: 0cqh;
+}
+.two{
+    color:rgb(17, 124, 218);
+    
+}
+.three{ display: inline;
+    color: rgb(36, 116, 33);
+
+}
+h1{
+    
+    border-style: hidden  ;
+    border-width: 10px;
+    border-color: antiquewhite ;
+
+   border-color: pink;
+
+    border-right:5px solid rgb(201, 183, 86);
+    border-bottom: 5px solid rgb(21, 201, 132);
+    border-top: 5px solid hotpink;
+    border: left 5px solid rgb(30, 30, 231);
+    
+    text-align: center ;
+    border-left-style: dotted;
+    border-right-style: groove;
+    border-top-style: dashed;
+    border-bottom-style: double;
+    border-radius: 15px;
+    text-emphasis-color:rgb(98, 216, 98);
+
+}
+
+h3{
+    color:goldenrod;
+}
+.to{
+    background: rgb(150, 231, 252);
+    text-align-last: auto;
+    color:rgb(131, 55, 20)
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.child{
+    background: rgb(164, 128, 248);
+    color:blue;
+    margin-top: 20 px;
+    margin-left:20px ;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+    margin-left: 20px;
+}
+.parent{
+    background: rgb(238, 44, 108);
+    width: 300px;
+    margin-top: 50px;
+    padding-top: 50px;
+    margin-left: 50px;
+    padding: left 50px;
+    margin-bottom: 20px;
+} 
+b{
+    color:rgb(94, 12, 150);
+    font-size: large;
+    text-align: left;
+}
+.child{
+    background-color: rgb(247, 14, 189);
+    margin: 25px 30px;
+    padding: 10px 20px;
+    margin:10px;
+    padding:25px;
+}
+to{
+    size: 34%;
+    color:rgb(109, 190, 27);
+}
+.four{
+    color:rgb(166, 235, 235);
+}
+.parent{
+    background: hotpink;
+    color:skyblue;
+    width:50%;
+    margin: 20px auto;
+    padding:2%;
+    border-radius: 15px;
+    border:1em solid blue;
+   /* max-width: 1000px;
+    min-width: 500px;*/
+    height:50%;
+}
+/*html,body{
+
+    height: 100%;*/
+
+.child{
+    background: rgb(7, 69, 105);
+    color:rgb(27, 156, 96);
+    width:90%;
+    margin: 10px auto;
+    padding:2%;
+}
+.text-top{
+    text-indent: 300px;
+    font-family: fantasy;
+    font-size-adjust: initial;
+    line-height: 30%px;
+    white-space:brack-spaces;
+
+    font-style: italic;
+    font-weight: 100;
+    font-variant:unset;
+    color:blueviolet;
+    font-size: xx-large;
+}
+p.how{
+text-decoration: overline underline;
+font-variant: small-caps;
+color: #8beb9f;
+font-weight: 200;
+font-size: 50px;
+}
+h6{
+    font-size: xx-large;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(77, 77, 182);
+    color: wheat;
+}
